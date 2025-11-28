@@ -75,14 +75,14 @@ class KelvinUdufo:
   <tr>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_1">
-        <img src="./certifications/cert1.png" alt="Certification Name" width="400"/><br/>
+        <img src="./certifications/alx-software-engineering.png" alt="alx-software-engineering" width="400"/><br/>
         <b>ALX Software Engineering Certificate</b>
       </a><br/>
       <sub>Issued: Month Year</sub>
     </td>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_2">
-        <img src="./certifications/cert2.png" alt="Certification Name" width="400"/><br/>
+        <img src="./certifications/aws-cloud-practitioner.png" alt="aws-cloud-practitioner" width="400"/><br/>
         <b>Backend Development Certificate</b>
       </a><br/>
       <sub>Issued: Month Year</sub>
@@ -91,14 +91,14 @@ class KelvinUdufo:
   <tr>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_3">
-        <img src="./certifications/cert3.png" alt="Certification Name" width="400"/><br/>
+        <img src="./certifications/alx-ai-starter-kit.png" alt="alx-ai-starter-kit" width="400"/><br/>
         <b>Python Programming Certificate</b>
       </a><br/>
       <sub>Issued: Month Year</sub>
     </td>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_4">
-        <img src="./certifications/cert4.png" alt="Certification Name" width="400"/><br/>
+        <img src="./certifications/professional-foundations.png" alt="professional-foundations" width="400"/><br/>
         <b>Docker & Containerization</b>
       </a><br/>
       <sub>Issued: Month Year</sub>
