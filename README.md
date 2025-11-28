@@ -1,83 +1,168 @@
-<h1 align="center">Hi there, I'm Kelvin Udufo 👋</h1>
+<h1 align="center">👋 Hey, I'm Kelvin Udufo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer+%7C+Tech+Support+Specialist;ALX+Backend+Engineering+Learner;Passionate+about+Tech%2C+AI%2C+and+Problem+Solving;Building+an+Airbnb+Clone!" />
+  <strong>Backend Engineer | ALX Software Engineering Program</strong>
 </p>
-
----
-
-## 🚀 About Me
-
-I’m a **Backend Engineer** and **Technical Support Specialist** based in Lagos, Nigeria, currently enrolled in the [ALX Software Engineering Program](https://www.alxafrica.com/). My journey into software engineering is fueled by a deep-seated passion for **technology**, **artificial intelligence**, and **problem-solving**.
-
-🌱 I'm enhancing my skills in system engineering, Python, REST APIs, and infrastructure as code.
-
-🛠️ **Why I Chose Software Engineering**  
-I believe in technology's power to transform lives. My goal is to build solutions that address real-world problems, starting with my ambitious **Airbnb Clone Project**.
-
-🎯 **My Goal**  
-To become a **highly skilled software engineer** capable of developing scalable backend systems and impactful tech solutions.
-
----
-
-## 🧠 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-
----
-
-## 🔥 Featured Projects
-
-### 🚧 [Airbnb Clone Project](https://github.com/Kelvyn2012/AirBnB_clone)
-> A comprehensive clone of the Airbnb web application, developed from scratch as part of my ALX journey. It emphasizes core backend logic, storage engines, object modeling, and scalable architecture.
-
-Technologies: Python | OOP | Unit Testing | JSON | CLI | File Storage
-
----
-
-## 🗂️ Other Notable Projects
-
-- 🧠 **Simple Shell** – UNIX command-line interpreter built from scratch in C  
-- 🕸️ **Web Stack Debugging** – Hands-on experience with DevOps and server configuration  
-- 📦 **RESTful API** – Development and documentation of REST APIs using Flask
-
-Explore more in my [pinned repositories](https://github.com/Kelvyn2012?tab=repositories).
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvyn2012&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvyn2012&layout=compact&theme=radical"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Backend+Systems;Passionate+About+Clean+Code+%26+Architecture;Currently+Crafting+an+Airbnb+Clone;Always+Learning%2C+Always+Growing&center=true&width=500&height=50"/>
+</p>
+
+<p align="center">
+  <a href="mailto:kelvin.udufo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kelvin-udufo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Elkel_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://kelvyn2012.github.io/My-Site/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 💡 About Me
 
-<p>
-  <a href="mailto:kelvin.udufo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kelvin-udufo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Elkel_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://kelvyn2012.github.io/My-Site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+Backend engineer from **Lagos, Nigeria** 🇳🇬, currently leveling up through the **ALX Software Engineering Program**. I'm on a mission to build backend systems that are not just functional, but elegant and scalable.
+
+```python
+class KelvinUdufo:
+    def __init__(self):
+        self.location = "Lagos, Nigeria"
+        self.current_focus = ["Backend Development", "System Design", "DevOps"]
+        self.learning = ["Kubernetes", "Microservices", "Cloud Infrastructure"]
+        self.interests = ["AI/ML", "Problem Solving", "Open Source"]
+    
+    def say_hi(self):
+        print("Let's build something amazing together!")
+```
+
+**What drives me:** I believe technology should solve real problems. Every line of code I write is a step toward creating solutions that make a difference.
+
+---
+
+## 🛠️ Tech Arsenal
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Frontend (when needed)**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 [Airbnb Clone](https://github.com/Kelvyn2012/AirBnB_clone)
+**A full-stack Airbnb replica built from the ground up**
+
+Building this comprehensive clone has been my deep dive into real-world software architecture. From custom ORMs to RESTful APIs, this project showcases scalable backend design principles.
+
+**Key Features:**
+- Custom command interpreter for data management
+- Object-Relational Mapping (ORM) system
+- RESTful API with full CRUD operations
+- File and database storage engines
+- Comprehensive unit testing suite
+
+**Tech:** `Python` `Flask` `SQLAlchemy` `MySQL` `HTML/CSS` `JavaScript`
+
+---
+
+### 🐚 [Simple Shell](https://github.com/Kelvyn2012/simple_shell)
+**UNIX command-line interpreter written in C**
+
+A fully functional shell that demonstrates low-level system programming and understanding of OS processes.
+
+**Tech:** `C` `Linux System Calls` `Process Management`
+
+---
+
+### 🌐 [RESTful API Projects](https://github.com/Kelvyn2012?tab=repositories)
+**Various API implementations showcasing backend mastery**
+
+Developed multiple REST APIs with authentication, data validation, and comprehensive documentation.
+
+**Tech:** `Flask` `Node.js/Express` `JWT` `Swagger/OpenAPI`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelvyn2012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvyn2012&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvyn2012&theme=tokyonight&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kelvyn2012&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentGoals = {
+    learning: [
+        "Advanced System Design Patterns",
+        "Kubernetes & Container Orchestration",
+        "Microservices Architecture",
+        "Cloud-Native Development"
+    ],
+    building: [
+        "Scaling the Airbnb Clone to production",
+        "Contributing to open-source projects",
+        "Building a developer portfolio of RESTful services"
+    ],
+    goal: "To architect and build backend systems that scale effortlessly and solve real problems"
+};
+```
+
+---
+
+## 📫 Let's Build Together
+
+I'm always open to collaborating on interesting projects, discussing tech, or just connecting with fellow developers.
+
+**Reach out if you want to:**
+- Collaborate on open-source projects
+- Discuss backend architecture and best practices
+- Talk about opportunities in tech
+- Simply connect and share ideas
+
+<p align="center">
+  <a href="mailto:kelvin.udufo@example.com">
+    <img src="https://img.shields.io/badge/Email%20Me-Let's%20Connect-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Technology is best when it brings people together.” – Matt Mullenweg</i>
+  <img src="https://komarev.com/ghpvc/?username=Kelvyn2012&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
+
+<p align="center">
+  <i>"The best way to predict the future is to implement it." — David Heinemeier Hansson</i>
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/Kelvyn2012">Kelvyn2012</a> with 💻 and ☕</p>
