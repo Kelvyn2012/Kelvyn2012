@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Kelvin Udufo</h1>
+<h1 align="center">👋 Hey!, I'm Kelvin Udufo</h1>
 
 <p align="center">
   <strong>Backend Engineer | ALX Software Engineering Program</strong>
