@@ -78,30 +78,30 @@ class KelvinUdufo:
         <img src="./certifications/alx-software-engineering.png" alt="alx-software-engineering" width="400"/><br/>
         <b>ALX Software Engineering Certificate</b>
       </a><br/>
-      <sub>Issued: Month Year</sub>
+      <sub>Issued: Dec 2025</sub>
     </td>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_2">
         <img src="./certifications/aws-cloud-practitioner.png" alt="aws-cloud-practitioner" width="400"/><br/>
-        <b>Backend Development Certificate</b>
+        <b>AWS Cloud Practitioner</b>
       </a><br/>
-      <sub>Issued: Month Year</sub>
+      <sub>Issued: August 2025</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_3">
         <img src="./certifications/alx-ai-starter-kit.png" alt="alx-ai-starter-kit" width="400"/><br/>
-        <b>Python Programming Certificate</b>
+        <b>Alx AI Starter Kit</b>
       </a><br/>
-      <sub>Issued: Month Year</sub>
+      <sub>Issued: May 2025</sub>
     </td>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_4">
         <img src="./certifications/professional-foundations.png" alt="professional-foundations" width="400"/><br/>
-        <b>Docker & Containerization</b>
+        <b>Professional Foundations</b>
       </a><br/>
-      <sub>Issued: Month Year</sub>
+      <sub>Issued: April 2025</sub>
     </td>
   </tr>
 </table>
