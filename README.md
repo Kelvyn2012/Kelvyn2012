@@ -104,6 +104,22 @@ class KelvinUdufo:
       <sub>Issued: April 2025</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="LINK_TO_CERT_1">
+        <img src="./certifications/alx-software-engineering.png" alt="alx-software-engineering" width="400"/><br/>
+        <b>ALX Software Engineering Certificate</b>
+      </a><br/>
+      <sub>Issued: Dec 2025</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="LINK_TO_CERT_2">
+        <img src="./certifications/aws-cloud-practitioner.png" alt="aws-cloud-practitioner" width="400"/><br/>
+        <b>AWS Cloud Practitioner</b>
+      </a><br/>
+      <sub>Issued: August 2025</sub>
+    </td>
+  </tr>
 </table>
 
 ### 🏆 Badges & Achievements
