@@ -107,7 +107,7 @@ class KelvinUdufo:
   <tr>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_1">
-        <img src="./certifications/Prodev_certification.png" alt="alx-ProDev-software-engineering" width="400"/><br/>
+        <img src="./certifications/Prodev_certificate.png" alt="alx-ProDev-software-engineering" width="400"/><br/>
         <b>ALX ProDev Software Engineering Certificate</b>
       </a><br/>
       <sub>Issued: Dec 2025</sub>
