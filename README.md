@@ -129,7 +129,7 @@ class KelvinUdufo:
 [![HackerRank](https://img.shields.io/badge/HackerRank-Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](VERIFICATION_LINK)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](VERIFICATION_LINK)
 
-**View all certifications →** [Credential Portfolio](https://github.com/Kelvyn2012/certifications)
+**View all certifications →** [Credential Portfolio](https://savanna.alxafrica.com/dashboards/my_curriculums#my-certificates)
 
 </div>
 
