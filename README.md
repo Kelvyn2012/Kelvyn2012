@@ -78,7 +78,7 @@ class KelvinUdufo:
         <img src="./certifications/alx-software-engineering.png" alt="alx-software-engineering" width="400"/><br/>
         <b>ALX Software Engineering Certificate</b>
       </a><br/>
-      <sub>Issued: Dec 2025</sub>
+      <sub>Issued: Sep 2025</sub>
     </td>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_2">
@@ -107,8 +107,8 @@ class KelvinUdufo:
   <tr>
     <td align="center" width="50%">
       <a href="LINK_TO_CERT_1">
-        <img src="./certifications/alx-software-engineering.png" alt="alx-software-engineering" width="400"/><br/>
-        <b>ALX Software Engineering Certificate</b>
+        <img src="./certifications/Prodev_certification.png" alt="alx-ProDev-software-engineering" width="400"/><br/>
+        <b>ALX ProDev Software Engineering Certificate</b>
       </a><br/>
       <sub>Issued: Dec 2025</sub>
     </td>
