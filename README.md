@@ -137,7 +137,7 @@ class KelvinUdufo:
 
 ## 🚀 Featured Projects
 
-### 🏠 [Airbnb Clone](https://github.com/Kelvyn2012/AirBnB_clone)
+### 🏠 [Airbnb Clone](https://github.com/Kelvyn2012/alx-airbnb-database)
 **A full-stack Airbnb replica built from the ground up**
 
 Building this comprehensive clone has been my deep dive into real-world software architecture. From custom ORMs to RESTful APIs, this project showcases scalable backend design principles.
@@ -153,7 +153,7 @@ Building this comprehensive clone has been my deep dive into real-world software
 
 ---
 
-### 🐚 [Simple Shell](https://github.com/Kelvyn2012/simple_shell)
+### 🐚 [E-Commerce](https://github.com/Kelvyn2012/e_commerce_API)
 **UNIX command-line interpreter written in C**
 
 A fully functional shell that demonstrates low-level system programming and understanding of OS processes.
@@ -162,7 +162,7 @@ A fully functional shell that demonstrates low-level system programming and unde
 
 ---
 
-### 🌐 [RESTful API Projects](https://github.com/Kelvyn2012?tab=repositories)
+### 🌐 [RESTful API Projects](https://github.com/Kelvyn2012/alx-project-nexus)
 **Various API implementations showcasing backend mastery**
 
 Developed multiple REST APIs with authentication, data validation, and comprehensive documentation.
