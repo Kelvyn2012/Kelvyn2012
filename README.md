@@ -65,11 +65,11 @@ class KelvinUdufo:
 
 ---
 
-## 🎓 Certifications & Achievements
+## Certifications & Achievements
 
 <div align="center">
 
-### 📜 Professional Certifications
+### Professional Certifications
 
 <table>
   <tr>
@@ -122,7 +122,7 @@ class KelvinUdufo:
   </tr>
 </table>
 
-### 🏆 Badges & Achievements
+### Badges & Achievements
 
 [![ALX](https://img.shields.io/badge/ALX-Software_Engineering-00ADD8?style=for-the-badge&logo=graduation-cap&logoColor=white)](VERIFICATION_LINK)
 [![Coursera](https://img.shields.io/badge/Coursera-Certificates-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](VERIFICATION_LINK)
@@ -135,9 +135,9 @@ class KelvinUdufo:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏠 [Airbnb Clone](https://github.com/Kelvyn2012/alx-airbnb-database)
+###  [Airbnb Clone](https://github.com/Kelvyn2012/alx-airbnb-database)
 **A full-stack Airbnb replica built from the ground up**
 
 Building this comprehensive clone has been my deep dive into real-world software architecture. From custom ORMs to RESTful APIs, this project showcases scalable backend design principles.
@@ -153,7 +153,7 @@ Building this comprehensive clone has been my deep dive into real-world software
 
 ---
 
-### 🐚 [E-Commerce](https://github.com/Kelvyn2012/e_commerce_API)
+###  [E-Commerce](https://github.com/Kelvyn2012/e_commerce_API)
 **UNIX command-line interpreter written in C**
 
 A fully functional shell that demonstrates low-level system programming and understanding of OS processes.
@@ -162,7 +162,7 @@ A fully functional shell that demonstrates low-level system programming and unde
 
 ---
 
-### 🌐 [RESTful API Projects](https://github.com/Kelvyn2012/alx-project-nexus)
+###  [RESTful API Projects](https://github.com/Kelvyn2012/alx-project-nexus)
 **Various API implementations showcasing backend mastery**
 
 Developed multiple REST APIs with authentication, data validation, and comprehensive documentation.
@@ -171,7 +171,7 @@ Developed multiple REST APIs with authentication, data validation, and comprehen
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelvyn2012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -188,7 +188,7 @@ Developed multiple REST APIs with authentication, data validation, and comprehen
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```javascript
 const currentGoals = {
@@ -209,7 +209,7 @@ const currentGoals = {
 
 ---
 
-## 📫 Let's Build Together
+##  Let's Build Together
 
 I'm always open to collaborating on interesting projects, discussing tech, or just connecting with fellow developers.
 
@@ -235,4 +235,4 @@ I'm always open to collaborating on interesting projects, discussing tech, or ju
   <i>"The best way to predict the future is to implement it." — David Heinemeier Hansson</i>
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/Kelvyn2012">Kelvyn2012</a> with 💻 and ☕</p>
+<p align="center"> From <a href="https://github.com/Kelvyn2012">Kelvyn2012</a> with 💻 and ☕</p>
